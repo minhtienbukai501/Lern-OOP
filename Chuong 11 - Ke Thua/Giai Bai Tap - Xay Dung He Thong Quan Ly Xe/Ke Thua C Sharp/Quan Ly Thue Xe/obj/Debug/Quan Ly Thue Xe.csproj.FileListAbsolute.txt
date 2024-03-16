@@ -1,0 +1,5 @@
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) Buoi 18\Ke Thua C Sharp\Quan Ly Thue Xe\bin\Debug\Quan Ly Thue Xe.exe.config
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) Buoi 18\Ke Thua C Sharp\Quan Ly Thue Xe\bin\Debug\Quan Ly Thue Xe.exe
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) Buoi 18\Ke Thua C Sharp\Quan Ly Thue Xe\bin\Debug\Quan Ly Thue Xe.pdb
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) Buoi 18\Ke Thua C Sharp\Quan Ly Thue Xe\obj\Debug\Quan Ly Thue Xe.exe
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) Buoi 18\Ke Thua C Sharp\Quan Ly Thue Xe\obj\Debug\Quan Ly Thue Xe.pdb

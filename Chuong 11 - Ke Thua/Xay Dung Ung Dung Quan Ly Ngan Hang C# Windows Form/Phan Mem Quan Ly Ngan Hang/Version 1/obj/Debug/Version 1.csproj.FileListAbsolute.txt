@@ -1,0 +1,21 @@
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) - Buoi 19\Phan Mem Quan Ly Ngan Hang\Version 1\bin\Debug\Version 1.exe.config
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) - Buoi 19\Phan Mem Quan Ly Ngan Hang\Version 1\bin\Debug\Version 1.exe
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) - Buoi 19\Phan Mem Quan Ly Ngan Hang\Version 1\bin\Debug\Version 1.pdb
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) - Buoi 19\Phan Mem Quan Ly Ngan Hang\Version 1\obj\Debug\Version 1.csprojResolveAssemblyReference.cache
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) - Buoi 19\Phan Mem Quan Ly Ngan Hang\Version 1\obj\Debug\Version_1.Form1.resources
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) - Buoi 19\Phan Mem Quan Ly Ngan Hang\Version 1\obj\Debug\Version_1.Properties.Resources.resources
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) - Buoi 19\Phan Mem Quan Ly Ngan Hang\Version 1\obj\Debug\Version 1.csproj.GenerateResource.Cache
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) - Buoi 19\Phan Mem Quan Ly Ngan Hang\Version 1\obj\Debug\Version 1.exe
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) - Buoi 19\Phan Mem Quan Ly Ngan Hang\Version 1\obj\Debug\Version 1.pdb
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) - Buoi 19\Phan Mem Quan Ly Ngan Hang\Version 1\obj\Debug\Version_1.frmCapNhat.resources
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) - Buoi 19 - 20\Phan Mem Quan Ly Ngan Hang\Version 1\bin\Debug\Version 1.exe.config
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) - Buoi 19 - 20\Phan Mem Quan Ly Ngan Hang\Version 1\obj\Debug\Version 1.exe
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) - Buoi 19 - 20\Phan Mem Quan Ly Ngan Hang\Version 1\obj\Debug\Version 1.pdb
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) - Buoi 19 - 20\Phan Mem Quan Ly Ngan Hang\Version 1\bin\Debug\Version 1.exe
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) - Buoi 19 - 20\Phan Mem Quan Ly Ngan Hang\Version 1\bin\Debug\Version 1.pdb
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) - Buoi 19 - 20\Phan Mem Quan Ly Ngan Hang\Version 1\obj\Debug\Version 1.csprojResolveAssemblyReference.cache
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) - Buoi 19 - 20\Phan Mem Quan Ly Ngan Hang\Version 1\obj\Debug\Version_1.Form1.resources
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) - Buoi 19 - 20\Phan Mem Quan Ly Ngan Hang\Version 1\obj\Debug\Version_1.frmCapNhat.resources
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) - Buoi 19 - 20\Phan Mem Quan Ly Ngan Hang\Version 1\obj\Debug\Version_1.Properties.Resources.resources
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) - Buoi 19 - 20\Phan Mem Quan Ly Ngan Hang\Version 1\obj\Debug\Version 1.csproj.GenerateResource.Cache
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) - Buoi 19 - 20\Phan Mem Quan Ly Ngan Hang\Version 1\obj\Debug\Version_1.FormTimKiem.resources

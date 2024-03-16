@@ -1,0 +1,4 @@
+C:\Users\NguyenVietNamSon\Desktop\OOP(7-2015) - Buoi 26\Xep Loai Hoc Sinh\SonDepTrai\bin\Debug\SonDepTrai.dll
+C:\Users\NguyenVietNamSon\Desktop\OOP(7-2015) - Buoi 26\Xep Loai Hoc Sinh\SonDepTrai\bin\Debug\SonDepTrai.pdb
+C:\Users\NguyenVietNamSon\Desktop\OOP(7-2015) - Buoi 26\Xep Loai Hoc Sinh\SonDepTrai\obj\Debug\SonDepTrai.dll
+C:\Users\NguyenVietNamSon\Desktop\OOP(7-2015) - Buoi 26\Xep Loai Hoc Sinh\SonDepTrai\obj\Debug\SonDepTrai.pdb

@@ -1,0 +1,11 @@
+C:\Users\NguyenVietNamSon\Desktop\OOP(7-2015) - Buoi 26\Xep Loai Hoc Sinh\Project1\bin\Debug\Project1.exe.config
+C:\Users\NguyenVietNamSon\Desktop\OOP(7-2015) - Buoi 26\Xep Loai Hoc Sinh\Project1\bin\Debug\Project1.exe
+C:\Users\NguyenVietNamSon\Desktop\OOP(7-2015) - Buoi 26\Xep Loai Hoc Sinh\Project1\bin\Debug\Project1.pdb
+C:\Users\NguyenVietNamSon\Desktop\OOP(7-2015) - Buoi 26\Xep Loai Hoc Sinh\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\Users\NguyenVietNamSon\Desktop\OOP(7-2015) - Buoi 26\Xep Loai Hoc Sinh\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\NguyenVietNamSon\Desktop\OOP(7-2015) - Buoi 26\Xep Loai Hoc Sinh\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\NguyenVietNamSon\Desktop\OOP(7-2015) - Buoi 26\Xep Loai Hoc Sinh\Project1\obj\Debug\Project1.csproj.GenerateResource.Cache
+C:\Users\NguyenVietNamSon\Desktop\OOP(7-2015) - Buoi 26\Xep Loai Hoc Sinh\Project1\obj\Debug\Project1.exe
+C:\Users\NguyenVietNamSon\Desktop\OOP(7-2015) - Buoi 26\Xep Loai Hoc Sinh\Project1\obj\Debug\Project1.pdb
+C:\Users\NguyenVietNamSon\Desktop\OOP(7-2015) - Buoi 26\Xep Loai Hoc Sinh\Project1\bin\Debug\SonDepTrai.dll
+C:\Users\NguyenVietNamSon\Desktop\OOP(7-2015) - Buoi 26\Xep Loai Hoc Sinh\Project1\bin\Debug\SonDepTrai.pdb

@@ -1,0 +1,6 @@
+C:\Users\NguyenVietNamSon\Desktop\Du Lieu Desktop\OOP\Buoi 5\Test C Sharf\Test Try Catch\bin\Debug\Test Try Catch.exe.config
+C:\Users\NguyenVietNamSon\Desktop\Du Lieu Desktop\OOP\Buoi 5\Test C Sharf\Test Try Catch\bin\Debug\Test Try Catch.exe
+C:\Users\NguyenVietNamSon\Desktop\Du Lieu Desktop\OOP\Buoi 5\Test C Sharf\Test Try Catch\bin\Debug\Test Try Catch.pdb
+C:\Users\NguyenVietNamSon\Desktop\Du Lieu Desktop\OOP\Buoi 5\Test C Sharf\Test Try Catch\obj\Debug\Test Try Catch.csprojResolveAssemblyReference.cache
+C:\Users\NguyenVietNamSon\Desktop\Du Lieu Desktop\OOP\Buoi 5\Test C Sharf\Test Try Catch\obj\Debug\Test Try Catch.exe
+C:\Users\NguyenVietNamSon\Desktop\Du Lieu Desktop\OOP\Buoi 5\Test C Sharf\Test Try Catch\obj\Debug\Test Try Catch.pdb

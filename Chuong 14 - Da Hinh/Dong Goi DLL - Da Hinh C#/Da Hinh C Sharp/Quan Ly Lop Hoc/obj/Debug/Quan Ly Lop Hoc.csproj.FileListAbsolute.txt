@@ -1,0 +1,6 @@
+C:\Users\NguyenVietNamSon\Desktop\OOP(7-2015) - Buoi 26\Da Hinh C Sharp\Quan Ly Lop Hoc\bin\Debug\Quan Ly Lop Hoc.exe.config
+C:\Users\NguyenVietNamSon\Desktop\OOP(7-2015) - Buoi 26\Da Hinh C Sharp\Quan Ly Lop Hoc\bin\Debug\Quan Ly Lop Hoc.exe
+C:\Users\NguyenVietNamSon\Desktop\OOP(7-2015) - Buoi 26\Da Hinh C Sharp\Quan Ly Lop Hoc\bin\Debug\Quan Ly Lop Hoc.pdb
+C:\Users\NguyenVietNamSon\Desktop\OOP(7-2015) - Buoi 26\Da Hinh C Sharp\Quan Ly Lop Hoc\obj\Debug\Quan Ly Lop Hoc.csprojResolveAssemblyReference.cache
+C:\Users\NguyenVietNamSon\Desktop\OOP(7-2015) - Buoi 26\Da Hinh C Sharp\Quan Ly Lop Hoc\obj\Debug\Quan Ly Lop Hoc.exe
+C:\Users\NguyenVietNamSon\Desktop\OOP(7-2015) - Buoi 26\Da Hinh C Sharp\Quan Ly Lop Hoc\obj\Debug\Quan Ly Lop Hoc.pdb

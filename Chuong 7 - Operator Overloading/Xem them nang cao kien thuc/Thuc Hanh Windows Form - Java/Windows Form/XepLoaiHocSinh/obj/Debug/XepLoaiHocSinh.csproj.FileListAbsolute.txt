@@ -1,0 +1,9 @@
+C:\Users\nguyenvietnamson\Desktop\OOP chieu chu nhat (5-4)\Windows Form\XepLoaiHocSinh\bin\Debug\XepLoaiHocSinh.exe.config
+C:\Users\nguyenvietnamson\Desktop\OOP chieu chu nhat (5-4)\Windows Form\XepLoaiHocSinh\bin\Debug\XepLoaiHocSinh.exe
+C:\Users\nguyenvietnamson\Desktop\OOP chieu chu nhat (5-4)\Windows Form\XepLoaiHocSinh\bin\Debug\XepLoaiHocSinh.pdb
+C:\Users\nguyenvietnamson\Desktop\OOP chieu chu nhat (5-4)\Windows Form\XepLoaiHocSinh\obj\Debug\XepLoaiHocSinh.csprojResolveAssemblyReference.cache
+C:\Users\nguyenvietnamson\Desktop\OOP chieu chu nhat (5-4)\Windows Form\XepLoaiHocSinh\obj\Debug\XepLoaiHocSinh.Form1.resources
+C:\Users\nguyenvietnamson\Desktop\OOP chieu chu nhat (5-4)\Windows Form\XepLoaiHocSinh\obj\Debug\XepLoaiHocSinh.Properties.Resources.resources
+C:\Users\nguyenvietnamson\Desktop\OOP chieu chu nhat (5-4)\Windows Form\XepLoaiHocSinh\obj\Debug\XepLoaiHocSinh.csproj.GenerateResource.Cache
+C:\Users\nguyenvietnamson\Desktop\OOP chieu chu nhat (5-4)\Windows Form\XepLoaiHocSinh\obj\Debug\XepLoaiHocSinh.exe
+C:\Users\nguyenvietnamson\Desktop\OOP chieu chu nhat (5-4)\Windows Form\XepLoaiHocSinh\obj\Debug\XepLoaiHocSinh.pdb

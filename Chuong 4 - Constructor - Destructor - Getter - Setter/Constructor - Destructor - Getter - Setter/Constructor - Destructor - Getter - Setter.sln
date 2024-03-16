@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Khoi Tao Mac Dinh", "Khoi Tao Mac Dinh\Khoi Tao Mac Dinh.vcxproj", "{3EFAB3B5-0AFC-413B-B472-16A6ECBEFAF0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bài Tập Điểm Tại Lớp", "Bài Tập Điểm Tại Lớp\Bài Tập Điểm Tại Lớp.vcxproj", "{4E986359-55D0-4B0A-B3D5-C5D486D7BB81}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bài Phân Số Tại Lớp", "Bài Phân Số Tại Lớp\Bài Phân Số Tại Lớp.vcxproj", "{77E0A703-30DA-478B-989D-4162806B9300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EFAB3B5-0AFC-413B-B472-16A6ECBEFAF0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3EFAB3B5-0AFC-413B-B472-16A6ECBEFAF0}.Debug|Win32.Build.0 = Debug|Win32
+		{3EFAB3B5-0AFC-413B-B472-16A6ECBEFAF0}.Release|Win32.ActiveCfg = Release|Win32
+		{3EFAB3B5-0AFC-413B-B472-16A6ECBEFAF0}.Release|Win32.Build.0 = Release|Win32
+		{4E986359-55D0-4B0A-B3D5-C5D486D7BB81}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4E986359-55D0-4B0A-B3D5-C5D486D7BB81}.Debug|Win32.Build.0 = Debug|Win32
+		{4E986359-55D0-4B0A-B3D5-C5D486D7BB81}.Release|Win32.ActiveCfg = Release|Win32
+		{4E986359-55D0-4B0A-B3D5-C5D486D7BB81}.Release|Win32.Build.0 = Release|Win32
+		{77E0A703-30DA-478B-989D-4162806B9300}.Debug|Win32.ActiveCfg = Debug|Win32
+		{77E0A703-30DA-478B-989D-4162806B9300}.Debug|Win32.Build.0 = Debug|Win32
+		{77E0A703-30DA-478B-989D-4162806B9300}.Release|Win32.ActiveCfg = Release|Win32
+		{77E0A703-30DA-478B-989D-4162806B9300}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

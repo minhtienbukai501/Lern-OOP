@@ -1,0 +1,6 @@
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) Buoi 18\Ke Thua C Sharp\Demo sơ lược\bin\Debug\Demo sơ lược.exe.config
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) Buoi 18\Ke Thua C Sharp\Demo sơ lược\bin\Debug\Demo sơ lược.exe
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) Buoi 18\Ke Thua C Sharp\Demo sơ lược\bin\Debug\Demo sơ lược.pdb
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) Buoi 18\Ke Thua C Sharp\Demo sơ lược\obj\Debug\Demo sơ lược.csprojResolveAssemblyReference.cache
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) Buoi 18\Ke Thua C Sharp\Demo sơ lược\obj\Debug\Demo sơ lược.exe
+C:\Users\NguyenVietNamSon\Desktop\OOP (7-2015) Buoi 18\Ke Thua C Sharp\Demo sơ lược\obj\Debug\Demo sơ lược.pdb

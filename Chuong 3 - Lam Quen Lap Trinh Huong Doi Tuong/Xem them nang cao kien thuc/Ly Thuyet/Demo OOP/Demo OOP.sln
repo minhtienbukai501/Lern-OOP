@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ôn tập lập trình hướng thủ tục", "Ôn tập lập trình hướng thủ tục\Ôn tập lập trình hướng thủ tục.vcxproj", "{EB7E2AD1-2B1C-4E24-842D-E3243A6C5090}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lập trình hướng đối tượng - Phong cách 1", "Lập trình hướng đối tượng - Phong cách 1\Lập trình hướng đối tượng - Phong cách 1.vcxproj", "{1B147C8D-DA4E-4BE1-9DDE-9E48EEF3C9C3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lập trình hướng đối tượng - Phong cách 2", "Lập trình hướng đối tượng - Phong cách 2\Lập trình hướng đối tượng - Phong cách 2.vcxproj", "{9BD96491-E90B-4595-9E04-508B35158CF6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bài tập tại lớp 1", "Bài tập tại lớp 1\Bài tập tại lớp 1.vcxproj", "{FC7B7488-0B4F-4D1B-81C5-3EB8DAE61AB7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bài tập tại lớp 2", "Bài tập tại lớp 2\Bài tập tại lớp 2.vcxproj", "{41BEBD9D-AC56-4F4D-A960-0F3BBC09540C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB7E2AD1-2B1C-4E24-842D-E3243A6C5090}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EB7E2AD1-2B1C-4E24-842D-E3243A6C5090}.Debug|Win32.Build.0 = Debug|Win32
+		{EB7E2AD1-2B1C-4E24-842D-E3243A6C5090}.Release|Win32.ActiveCfg = Release|Win32
+		{EB7E2AD1-2B1C-4E24-842D-E3243A6C5090}.Release|Win32.Build.0 = Release|Win32
+		{1B147C8D-DA4E-4BE1-9DDE-9E48EEF3C9C3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B147C8D-DA4E-4BE1-9DDE-9E48EEF3C9C3}.Debug|Win32.Build.0 = Debug|Win32
+		{1B147C8D-DA4E-4BE1-9DDE-9E48EEF3C9C3}.Release|Win32.ActiveCfg = Release|Win32
+		{1B147C8D-DA4E-4BE1-9DDE-9E48EEF3C9C3}.Release|Win32.Build.0 = Release|Win32
+		{9BD96491-E90B-4595-9E04-508B35158CF6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9BD96491-E90B-4595-9E04-508B35158CF6}.Debug|Win32.Build.0 = Debug|Win32
+		{9BD96491-E90B-4595-9E04-508B35158CF6}.Release|Win32.ActiveCfg = Release|Win32
+		{9BD96491-E90B-4595-9E04-508B35158CF6}.Release|Win32.Build.0 = Release|Win32
+		{FC7B7488-0B4F-4D1B-81C5-3EB8DAE61AB7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FC7B7488-0B4F-4D1B-81C5-3EB8DAE61AB7}.Debug|Win32.Build.0 = Debug|Win32
+		{FC7B7488-0B4F-4D1B-81C5-3EB8DAE61AB7}.Release|Win32.ActiveCfg = Release|Win32
+		{FC7B7488-0B4F-4D1B-81C5-3EB8DAE61AB7}.Release|Win32.Build.0 = Release|Win32
+		{41BEBD9D-AC56-4F4D-A960-0F3BBC09540C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{41BEBD9D-AC56-4F4D-A960-0F3BBC09540C}.Debug|Win32.Build.0 = Debug|Win32
+		{41BEBD9D-AC56-4F4D-A960-0F3BBC09540C}.Release|Win32.ActiveCfg = Release|Win32
+		{41BEBD9D-AC56-4F4D-A960-0F3BBC09540C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
